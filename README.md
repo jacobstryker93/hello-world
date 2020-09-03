@@ -1,2 +1,3 @@
 # hello-world
 To teach yourself what the hell Git is....
+My name is Jake Stryker and this is my first "commit" on Git. 
